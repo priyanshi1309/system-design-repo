@@ -93,20 +93,3 @@ All the fundamentals come together here. This module breaks down commonly asked 
 
 ---
 
-## Repository Structure
-
-system-design/
-│
-├── module-1-core-networking/
-├── module-2-databases/
-├── module-3-architecture/
-├── module-4-distributed-systems/
-└── module-5-case-studies/
-
-
----
-
-## Purpose
-
-The goal of this repository is to build a strong understanding of how real systems work, not just to pass interviews. Each module builds toward the next, giving you the tools to design, evaluate, and scale production-ready systems.
-
