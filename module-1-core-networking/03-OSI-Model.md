@@ -1,4 +1,4 @@
-# OSI Model (Module 1)
+# OSI Model 
 
 The OSI Model is a structured framework that explains how data moves across networks. It breaks communication into seven clear layers, helping engineers reason about systems without getting lost in the weeds. Each layer has a specific responsibility, and together they ensure devices can talk to each other reliably.
 
@@ -16,7 +16,7 @@ In system design, it’s an anchor that keeps your mental model consistent.
 
 ---
 
-## 2. The Seven Layers (Human Explanation)
+## 2. The Seven Layers 
 
 ### **Layer 7: Application Layer**
 This is where apps interact with the network.  
