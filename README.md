@@ -17,12 +17,12 @@ Before designing any system, it's essential to understand how machines communica
 4. **Layer 4 vs Layer 7**
 5. **TCP & UDP**
 6. **HTTP & HTTPS**
-7. **Proxies & Reverse Proxies**
-8. **Load Balancers**
-9. **Content Delivery Networks (CDN)**
-10. **Clustering**
-11. **Storage Systems**
-12. **Message Queues**
+7. **Proxies**
+8. **Reverse Proxies**
+9. **Load Balancers**
+10. **Content Delivery Networks (CDN)**
+11. **Clustering**
+12. **Storage Systems**
 
 ---
 
