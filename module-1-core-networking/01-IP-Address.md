@@ -1,4 +1,4 @@
-# IPMD – IP Addressing (Module 1)
+# IP Addressing 
 
 An IP address is the foundational addressing mechanism of any network architecture. It provides a structured framework for identifying endpoints and orchestrating efficient data routing across distributed environments.
 
